@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -fno-exceptions -O2 -g -DNDEBUG    CMakeFiles/generate_resources_tool.dir/tools/generate_resources.cpp.o  -o bin/generate_resources_tool -rdynamic 

@@ -1,0 +1,5 @@
+/home/praneeta/libfreenect2/examples/CMakeFiles/Protonect.dir
+/home/praneeta/libfreenect2/CMakeFiles/freenect2.dir
+/home/praneeta/libfreenect2/CMakeFiles/freenect2-openni2.dir
+/home/praneeta/libfreenect2/CMakeFiles/generate_resources_tool.dir
+/home/praneeta/libfreenect2/CMakeFiles/install-openni2.dir
